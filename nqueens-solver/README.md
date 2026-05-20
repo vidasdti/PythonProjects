@@ -1,8 +1,8 @@
 # N-Queens Solver
 
-A clean and modular Python implementation of the classic N-Queens problem using multiple local search optimization algorithms.
+A Python implementation of the classic N-Queens problem using local search optimization algorithms.
 
-This project explores search-based optimization techniques, conflict minimization, benchmarking, and visualization of algorithm behavior.
+This project focuses on solving the problem using techniques such as Hill Climbing and Simulated Annealing while also visualizing the optimization process.
 
 ---
 
@@ -11,15 +11,13 @@ This project explores search-based optimization techniques, conflict minimizatio
 - Hill Climbing Algorithm
 - Simulated Annealing Algorithm
 - Random Restart Strategy
-- Conflict Detection System
+- Conflict Detection
 - Chessboard Visualization
 - Optimization Progress Plotting
 - Runtime Measurement
-- Modular Project Structure
 - Command-Line Interface
-- Automated Testing
+- Basic Testing
 
----
 ---
 
 # Problem Description
@@ -34,7 +32,7 @@ A queen can attack:
 - Vertically
 - Diagonally
 
-This project solves the problem using local search optimization techniques.
+This project solves the problem using local search algorithms.
 
 ---
 
@@ -42,11 +40,11 @@ This project solves the problem using local search optimization techniques.
 
 ## Hill Climbing
 
-Hill Climbing iteratively moves toward a better neighboring state until no better move exists.
+Hill Climbing repeatedly moves to a neighboring state with fewer conflicts until no better move can be found.
 
 ## Simulated Annealing
 
-Simulated Annealing introduces controlled randomness to escape local optima and improve exploration of the search space.
+Simulated Annealing allows occasional non-optimal moves to help avoid local optima during the search process.
 
 ---
 
@@ -121,6 +119,3 @@ Run tests using:
 ```bash
 python -m tests.test_board
 ```
-
----
-
