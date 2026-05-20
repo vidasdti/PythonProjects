@@ -53,8 +53,8 @@ Simulated Annealing allows occasional non-optimal moves to help avoid local opti
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd nqueens-solver
+git clone https://github.com/vidasdti/PythonProjects.git
+cd PythonProjects/nqueens-solver
 ```
 
 Install dependencies:
