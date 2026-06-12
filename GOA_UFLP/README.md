@@ -24,19 +24,18 @@ Given:
 
 The goal is to minimize:
 
-\[
-\text{Total Cost}
-=
-\sum_{i \in Opened} f_i
+```text
+Total Cost =
+Σ(i ∈ Opened) fi
 +
-\sum_{j \in Customers}
-\min_{i \in Opened}(d_{ij})
-\]
+Σ(j ∈ Customers) min(i ∈ Opened)(dij)
+```
 
 where:
 
-- \(f_i\) = opening cost of facility \(i\)
-- \(d_{ij}\) = distance between facility \(i\) and customer \(j\)
+- fi = opening cost of facility i
+- dij = distance between facility i and customer j
+
 
 ---
 
