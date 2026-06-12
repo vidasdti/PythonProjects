@@ -103,6 +103,25 @@ The project generates:
 - Conflict reduction graph
 
 ---
+# Screenshots
+
+## Chessboard Solution
+
+![Chessboard Solution](screenshots/board.png)
+
+---
+
+## Hill Climbing Run
+
+![Hill Climbing](screenshots/progress_hill.png)
+
+---
+
+## Simulated Annealing Run
+
+![Simulated Annealing](screenshots/progress_annealing.png)
+
+---
 
 # Technologies Used
 
