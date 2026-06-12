@@ -25,13 +25,13 @@ Given:
 The goal is to minimize:
 
 ```text
-Total Cost = Σ(i ∈ Opened) fi + Σ(j ∈ Customers) min(i ∈ Opened)(dij)
+Total Cost = Σ(i ∈ Opened) f_i + Σ(j ∈ Customers) min(i ∈ Opened)(d_ij)
 ```
 
 where:
 
-- fi = opening cost of facility i
-- dij = distance between facility i and customer j
+- f_i = opening cost of facility i
+- d_ij = distance between facility i and customer j
 
 
 ---
