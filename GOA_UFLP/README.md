@@ -25,10 +25,7 @@ Given:
 The goal is to minimize:
 
 ```text
-Total Cost =
-Σ(i ∈ Opened) fi
-+
-Σ(j ∈ Customers) min(i ∈ Opened)(dij)
+Total Cost = Σ(i ∈ Opened) fi + Σ(j ∈ Customers) min(i ∈ Opened)(dij)
 ```
 
 where:
