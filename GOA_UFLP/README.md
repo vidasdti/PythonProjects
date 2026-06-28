@@ -86,13 +86,17 @@ The algorithm was tested on a randomly generated UFLP instance.
 
 ## Convergence Curve
 
-![GOA Convergence](images/convergence.png)
+<p align="center">
+  <img src="images/convergence.png" width="500">
+</p>
 
 ---
 
 ## Facility Locations
 
-![Facility Locations](images/facilities.png)
+<p align="center">
+  <img src="images/facilities.png" width="500">
+</p>
 
 ---
 
