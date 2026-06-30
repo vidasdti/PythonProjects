@@ -38,13 +38,13 @@ Training uses:
 ### Gameplay
 
 <p align="center">
-<img src="screenshots/gameplay.png" width="500">
+<img src="screenshots/gameplay.png" width="400">
 </p>
 
 ### Game Over
 
 <p align="center">
-<img src="screenshots/gameover.png" width="700">
+<img src="screenshots/gameover.png" width="400">
 </p>
 
 ---
