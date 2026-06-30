@@ -31,15 +31,21 @@ Training uses:
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+<p align="center">
+<img src="screenshots/menu.png" width="700">
+</p>
 
 ### Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+<p align="center">
+<img src="screenshots/gameplay.png" width="700">
+</p>
 
 ### Game Over
 
-![Game Over](screenshots/gameover.png)
+<p align="center">
+<img src="screenshots/gameover.png" width="700">
+</p>
 
 ---
 
