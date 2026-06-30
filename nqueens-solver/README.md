@@ -107,19 +107,25 @@ The project generates:
 
 ## Chessboard Solution
 
-![Chessboard Solution](screenshots/board.png)
+<p align="center">
+<img src="screenshots/board.png" width="500">
+</p>
 
 ---
 
 ## Hill Climbing Run
 
-![Hill Climbing](screenshots/progress_hill.png)
+<p align="center">
+<img src="screenshots/progress_hill.png" width="500">
+</p>
 
 ---
 
 ## Simulated Annealing Run
 
-![Simulated Annealing](screenshots/progress_annealing.png)
+<p align="center">
+<img src="screenshots/progress_annealing.png" width="500">
+</p>
 
 ---
 
