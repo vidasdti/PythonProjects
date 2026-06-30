@@ -32,13 +32,13 @@ Training uses:
 ### Main Menu
 
 <p align="center">
-<img src="screenshots/menu.png" width="700">
+<img src="screenshots/menu.png" width="400">
 </p>
 
 ### Gameplay
 
 <p align="center">
-<img src="screenshots/gameplay.png" width="700">
+<img src="screenshots/gameplay.png" width="500">
 </p>
 
 ### Game Over
